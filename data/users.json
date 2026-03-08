@@ -1,6 +1,5 @@
 {
-  "users": 
-  [
+  "users": [
     {
       "_id": "5410953eb0e0c0ae25608277",
       "guid": "eab0324c-75ef-49a1-9c49-be2d68f50b96",
@@ -16,7 +15,7 @@
       "company": "GEEKNET",
       "email": "henderson.briggs@geeknet.net",
       "password": "23derd*334",
-      "phone": "+1 (936) 451-3590",
+      "phone": "+1 (936) 451-3592",
       "address": "121 National Drive, Cotopaxi, Michigan, 8240"
     },
     {
@@ -46,14 +45,16 @@
       "age": 33,
       "eyeColor": "green",
       "name": {
-        "first": "Lott",
+        "first": "Lotta",
         "last": "Kramer"
       },
       "company": "POSHOME",
       "email": "lott.kramer@poshome.us",
       "password": "34oii+345",
       "phone": "+1 (983) 565-2711",
-      "address": "743 Ryder Avenue, Marenisco, South Dakota, 4752"
+      "address": "743 Ryder Avenue, Marenisco, South Dakota, 4752",
+      "first": "Lott",
+      "last": "Kramea"
     },
     {
       "_id": "5410953eada96439866e0a30",
